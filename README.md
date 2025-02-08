@@ -1,4 +1,4 @@
-# Sales Analysis Dashboard - README
+# Ferns and Petals Sales Analysis Dashboard
 
 ## Overview
 The Sales Analysis Dashboard provides key insights into sales performance, including revenue, order trends, customer spending habits, and product popularity. The dashboard consists of various visual elements that represent different aspects of sales data.
